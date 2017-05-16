@@ -1,0 +1,22 @@
+{
+  "name":"vitoria/upload",
+  "type":"library",
+  "description":"system of multple uploaad",
+  "keyword":["upload", "file"],
+  "homepage":"http://github.com/delcioPHP/vitoria-upload",
+  "author":
+          [
+            {
+              "name": "Delcio Cabanga",
+              "email": "ribeiro.cabanga@gmail.com"
+            }
+          ],
+  "autoload":
+  {
+        "psr-0": {"Vupload": "src/"}
+  },
+  "require":
+  {
+    "php": "=>5.5.0"
+  }
+}
