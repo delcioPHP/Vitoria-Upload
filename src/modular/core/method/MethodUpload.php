@@ -5,11 +5,15 @@
  * Time: 11:44 PM
  */
 
-//Vitoria Upload
-//Versao:1.0
-//Micro biblioteca escrita em PHP
-//carrega m]ultiplos arquivos
-//para tal, basta adicionar varios imputs
+/**
+####  Vitória Upload   ####
+Versao:1.0
+ * Descrição:
+Micro bibliteca escrita em PHP para
+upload de um ou mais (múltiplos) arquivos.
+Para tal, basta adicionar vários campos em forma de array
+ */
+
 
 namespace src\modular\core\method;
 
@@ -31,13 +35,6 @@ class MethodUpload implements UploadInterface
     private $checkFile;
     private $save;
     private $fileType = [];
-    
-
-//    public function __construct($loadFile, $dirFile)
-//    {
-//        $this->loadfiles = $loadFile;
-//        $this->dirFiles = $dirFile;
-//    }
 
 
     /**
@@ -60,7 +57,7 @@ class MethodUpload implements UploadInterface
     /**
      * @param array $fileType
      */
-    public function setFileType($fileType)
+    public function setFileType($fileType = ['image/jpeg', 'image/gif', 'image/png', 'application/pdf', 'audio/mp3'])
     {
         $this->fileType = $fileType;
     }
