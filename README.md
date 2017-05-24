@@ -10,7 +10,11 @@ Time: 11:44 PM
 
 ## Description / Descrição:
 
-Micro bibliteca escrita em PHP para 
+
+Micro library written in PHP to upload one or more (multiple) files. 
+To do this, simply add several fields in array form
+
+Micro biblioteca escrita em PHP para 
 upload de um ou mais (múltiplos) arquivos.
 Para tal, basta adicionar vários campos em forma de array
 
