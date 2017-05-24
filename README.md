@@ -1,22 +1,40 @@
+#Vitória Upload 
 
+Versao:1.0 
+Development by: Delcio Cabanga
+Date: 4/2/2017
+Time: 11:44 PM
 
-* Development by: Delcio Cabanga
-* Date: 4/2/2017
-* Time: 11:44 PM
+#Description / Descrição:
 
-####  Vitória Upload   ####
-#### Versao:1.0 ####
-#### Descrição:####
+Micro bibliteca escrita em PHP para 
+upload de um ou mais (múltiplos) arquivos.
+Para tal, basta adicionar vários campos em forma de array
 
-####Micro bibliteca escrita em PHP para ####
-####upload de um ou mais (múltiplos) arquivos.####
-####Para tal, basta adicionar vários campos em forma de array####
+##Install via composer / Instalar via composer:
+```
+    {
+       "require": {
+           "vitoria/upload" 
+           "php": ">=5.5.8"
+       }
+    }
+```
 
-**Basic Usage**
-**Uso Básico**
+## How to use it? / Uso básico:
+Create a simple HTML file, with a form such as / Crie um simples HTML:
+
+```html
+<form action="teste_classe.php" method="post" enctype="multipart/form-data">
+    Send these files:<br />
+    <input name="loadfile[]" type="file" /><br />
+    <input type="submit" value="Send files" />
+</form>
+```
+Create a file called CLASS / crie um ficheiro para chamar a clase:
+```php
 
 include_once "load.php";
-
 
 //load input [HTML]
 //Carrega o valor da variavel HTML
@@ -59,7 +77,7 @@ $methodUp->setDirFiles($dirFile);
 //load files
 //Carrega os arquivos
 $render->render();
-
+```
 
 
 **made in Luanda/Angola**
