@@ -1,17 +1,17 @@
-#Vitória Upload 
+## Vitória Upload 
 
 Versao:1.0 
 Development by: Delcio Cabanga
 Date: 4/2/2017
 Time: 11:44 PM
 
-#Description / Descrição:
+## Description / Descrição:
 
 Micro bibliteca escrita em PHP para 
 upload de um ou mais (múltiplos) arquivos.
 Para tal, basta adicionar vários campos em forma de array
 
-##Install via composer / Instalar via composer:
+## Install via composer / Instalar via composer:
 ```
     {
        "require": {
