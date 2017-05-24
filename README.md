@@ -23,7 +23,6 @@ Para tal, basta adicionar vários campos em forma de array
     {
        "require": {
            "vitoria/upload" 
-           "php": ">=5.5.8"
        }
     }
 ```
