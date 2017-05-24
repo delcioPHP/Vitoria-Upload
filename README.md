@@ -1,22 +1,19 @@
-#**Basic Usage**#
-#**Uso Básico**#
-#/**#
-# * Development by: Delcio Cabanga.#
-# * Date: 4/2/2017#
-# * Time: 11:44 PM#
-# */#
 
 
-#/**#
+* Development by: Delcio Cabanga
+* Date: 4/2/2017
+* Time: 11:44 PM
+
 ####  Vitória Upload   ####
-#Versao:1.0#
-# * Descrição:#
-#Micro bibliteca escrita em PHP para #
-#upload de um ou mais (múltiplos) arquivos.#
-#Para tal, basta adicionar vários campos em forma de array#
-# */#
+#### Versao:1.0 ####
+#### Descrição:####
 
+####Micro bibliteca escrita em PHP para ####
+####upload de um ou mais (múltiplos) arquivos.####
+####Para tal, basta adicionar vários campos em forma de array####
 
+**Basic Usage**
+**Uso Básico**
 
 include_once "load.php";
 
