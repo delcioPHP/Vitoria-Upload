@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'vendor' => array($baseDir . '/src'),
+    'cabanga' => array($baseDir . '/src'),
 );

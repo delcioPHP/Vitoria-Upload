@@ -13,10 +13,10 @@
           ],
   "autoload":
   {
-        "psr-0": {"Vupload": "src/"}
+        "psr-0": {"cabanga": "src/"}
   },
   "require":
   {
-    "php": "=>5.5.0"
+    "php": ">=5.5.8"
   }
 }
