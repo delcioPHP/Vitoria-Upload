@@ -20,7 +20,7 @@ Para tal, basta adicionar vários campos em forma de array
 
 ## Install via composer / Instalar via composer:
 ```
-php composer.phar require codeguy/upload
+php composer.phar require vitoria/upload
 ```
 
 ## How to use it? / Uso básico:
