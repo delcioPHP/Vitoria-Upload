@@ -14,11 +14,10 @@
           ],
   "autoload":
   {
-        "psr-0":{"cabanga": "src/"}
+        "psr-0": {"cabanga": "src/"}
   },
   "require":
   {
-    "php":">=5.5.8",
-     "minimum-stability":"*"
+    "php": ">=5.5.8",
   }
 }
