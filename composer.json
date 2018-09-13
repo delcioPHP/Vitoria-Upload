@@ -4,7 +4,7 @@
   "description":"system of multple upload",
   "keyword":["upload", "file"],
   "homepage":"http://github.com/delcioPHP/Vitoria-Upload",
-  "license": "MIT",
+  "license":"MIT",
   "author":
           [
             {
@@ -18,7 +18,7 @@
   },
   "require":
   {
-    "php": ">=5.5.8",
+    "php":">=5.5.8"
   },
-  "minimum-stability": "dev"
+  "minimum-stability":"dev"
 }
