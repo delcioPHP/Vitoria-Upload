@@ -22,7 +22,7 @@ Para tal, basta adicionar vários campos em forma de array
 ```
     {
        "require": {
-           "vitoria/upload" 
+           "vitoria/upload": "~0.0" 
        }
     }
 ```
