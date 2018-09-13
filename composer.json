@@ -4,22 +4,21 @@
   "description":"system of multple upload",
   "keyword":["upload", "file"],
   "homepage":"http://github.com/delcioPHP/Vitoria-Upload",
-  "license": "MIT",
+  "license":"MIT",
   "author":
           [
             {
-              "name": "Delcio Cabanga",
-              "email": "ribeiro.cabanga@gmail.com"
+              "name":"Delcio Cabanga",
+              "email":"ribeiro.cabanga@gmail.com"
             }
           ],
   "autoload":
   {
-        "psr-0": {"cabanga": "src/"}
+        "psr-0":{"cabanga": "src/"}
   },
   "require":
   {
     "php":">=5.5.8",
-    "vitoria/upload":"*"
   },
   "minimum-stability":"dev"
 }
