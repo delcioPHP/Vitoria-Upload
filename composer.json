@@ -1,10 +1,10 @@
 {
-  "name":"vitoria/upload",
-  "type":"library",
-  "description":"system of multple upload",
-  "keyword":["upload", "file"],
-  "homepage":"http://github.com/delcioPHP/Vitoria-Upload",
-  "license":"MIT",
+  "name": "vitoria/upload",
+  "type": "library",
+  "description": "system of multple upload",
+  "keyword": ["upload", "file"],
+  "homepage": "http://github.com/delcioPHP/Vitoria-Upload",
+  "license": "MIT",
   "author":
           [
             {
