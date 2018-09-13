@@ -19,6 +19,6 @@
   "require":
   {
     "php": ">=5.5.8"
-  }
+  },
   "minimum-stability": "dev"
 }
