@@ -20,11 +20,7 @@ Para tal, basta adicionar vários campos em forma de array
 
 ## Install via composer / Instalar via composer:
 ```
-{
-    "require": {
-        "vitoria/upload": "^1.0"
-    }
-}
+composer require vitoria/upload
 
 ```
 
