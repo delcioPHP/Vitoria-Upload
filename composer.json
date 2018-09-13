@@ -1,6 +1,5 @@
 {
   "name": "vitoria/upload",
-  "version": "v1.0.0",
   "type": "library",
   "description": "system of multple upload",
   "keyword": ["upload", "file"],
@@ -25,6 +24,5 @@
         "branch-alias": {
             "dev-master": "1.0.0.x-dev"
         }
-    },
-  "minimum-stability": "stable"
+    }
 }
