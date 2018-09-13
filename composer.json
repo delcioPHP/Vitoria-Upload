@@ -18,7 +18,8 @@
   },
   "require":
   {
-    "php": ">=5.5.8"
+    "php":">=5.5.8",
+    "vitoria/upload":"*"
   },
-  "minimum-stability": "dev"
+  "minimum-stability":"dev"
 }
