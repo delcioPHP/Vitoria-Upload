@@ -20,7 +20,12 @@ Para tal, basta adicionar vários campos em forma de array
 
 ## Install via composer / Instalar via composer:
 ```
-php composer.phar require vitoria/upload
+{
+    "require": {
+        "vitoria/upload": "^1.0"
+    }
+}
+
 ```
 
 ## How to use it? / Uso básico:
