@@ -86,7 +86,7 @@ $render->render();
 ```
 
 
-**made in Luanda/Angola**
+
 
   
 
